@@ -17,7 +17,7 @@ const background = [
             },
             {
                 id: 2,
-                title: 'Secondary School',
+                title: 'Smt. RMD Lakhani vidhya sankul., Talaja',
                 degree: 'Secondary School (SSC)',
                 detail: "Completed SSC from Smt. RMD Lakhani vidhya sankul., Talaja",
                 year: '2018-2019'
